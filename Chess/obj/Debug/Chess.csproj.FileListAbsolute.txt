@@ -1,0 +1,9 @@
+D:\Programming workspace\C#\Chess\Chess\bin\Debug\Chess.exe.config
+D:\Programming workspace\C#\Chess\Chess\bin\Debug\Chess.exe
+D:\Programming workspace\C#\Chess\Chess\bin\Debug\Chess.pdb
+D:\Programming workspace\C#\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+D:\Programming workspace\C#\Chess\Chess\obj\Debug\Chess.Form1.resources
+D:\Programming workspace\C#\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\Programming workspace\C#\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+D:\Programming workspace\C#\Chess\Chess\obj\Debug\Chess.exe
+D:\Programming workspace\C#\Chess\Chess\obj\Debug\Chess.pdb
